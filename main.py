@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import utils
 from generate_html import generate_page
 
 def word_index(line):
